@@ -1,4 +1,4 @@
-# ⚔️ Desafio Tecnico- Escribo
+# ⚔️ Desafio Tecnico - Escribo
 ----
 ### SOBRE
 #### Para estar rodando o sistema podemos estar fazendo o download dos arquivos e abrindo a pasta no Visual Studio Code.
