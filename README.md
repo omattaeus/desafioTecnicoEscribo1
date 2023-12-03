@@ -1,6 +1,8 @@
 # ⚔️ Desafio Tecnico - Escribo
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)----
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+----
 ### SOBRE
 #### Para estar rodando o sistema podemos estar fazendo o download dos arquivos e abrindo a pasta no Visual Studio Code.
 #### Dentro do Visual Studio Code no arquivo "script.js", podemos estar indo no Terminal e colocando o seguinte comando ["node script.js"](node).
